@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashim</h1>
-<h3 align="center">A passionate Game Programmer based on Cairo,Egypt</h3>
+<h3 align="center">A Programmer & Engineer with a passion for Game Programming, Backend Development, and Systems Design</h3>
 
 <div align="center">
 
